@@ -1,0 +1,2 @@
+# FertilityPublic
+This is a public repository to show the code used for my analysis of the co-movement between fertility and business cycles in select African countries. Unfortunately, because the data was acquired through the DHS, I cannot share the full repository, and this code will not run on its own. It is still the best example of my coding ability as of May 2018, although I continue to learn new coding etiquette and techniques.
